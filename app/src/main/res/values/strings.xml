@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CCPC</string>
+    <string name="welcome">Welcome</string>
+    <string name="ccpc">CCPC</string>
+    <string name="an_image">an image</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="back">back</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="type_your_email_here">Type your email here…</string>
+    <string name="type_your_password_here">Type your password here…</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="lighthouse">lighthouse</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="email">Email</string>
+    <string name="your_email">Your email..</string>
+    <string name="password">Password</string>
+    <string name="create_a_password">Create a password..</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="retype_password">Retype password..</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_home">Home_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>

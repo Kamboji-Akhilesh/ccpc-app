@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option1"
+        android:title="Internship"/>
+
+    <item
+        android:id="@+id/option2"
+        android:title="Access to our corporate systems"/>
+
+    <item
+        android:id="@+id/option3"
+        android:title="Industry and corporate exposure"/>
+
+    <item
+        android:id="@+id/option4"
+        android:title="Webinars/Seminars/Workshops"/>
+
+    <item
+        android:id="@+id/option5"
+        android:title="Career guidance"/>
+
+    <item
+        android:id="@+id/option6"
+        android:title="CV building assistance"/>
+
+    <item
+        android:id="@+id/option7"
+        android:title="CV building assistance"/>
+
+    <item
+        android:id="@+id/option8"
+        android:title="Interview preparation assistance"/>
+
+    <item
+        android:id="@+id/option9"
+        android:title="Off campus placements"/>
+
+    <item
+        android:id="@+id/option10"
+        android:title="Job assistance"/>
+
+    <item
+        android:id="@+id/option11"
+        android:title="Job opportunities"/>
+
+    <item
+        android:id="@+id/option12"
+        android:title="Industry visits"/>
+
+    <item
+        android:id="@+id/option13"
+        android:title="Entrepreneurship support"/>
+
+    <item
+        android:id="@+id/option14"
+        android:title="Soft/Interpersonal/life skills"/>
+
+</menu>
